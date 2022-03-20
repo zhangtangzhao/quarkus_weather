@@ -1,5 +1,5 @@
 启动命令：mvn clean compile quarkus:dev
-
+环境：maven-3.8.5/jdk11
 ## api接口：
 ### 获取配置的城市
 http://127.0.0.1:8081/api/currentcity  
