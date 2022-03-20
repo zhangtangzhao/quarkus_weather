@@ -1,0 +1,10 @@
+org\acme\quickstart\Boostarp.class
+org\acme\quickstart\service\EchoServiceImpl.class
+org\acme\quickstart\service\CorsFilter.class
+org\acme\quickstart\service\EchoService.class
+org\acme\quickstart\service\WeatherProperties.class
+org\acme\quickstart\GreetingResource.class
+org\acme\quickstart\controller\EchoController.class
+org\acme\quickstart\service\WeatherService.class
+org\acme\quickstart\service\WeatherAutoConfiguration.class
+org\acme\quickstart\controller\WeatherController.class

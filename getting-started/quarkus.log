@@ -1,0 +1,657 @@
+2022-03-17 12:29:39,723 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.boo.cla.QuarkusClassLoader] (main) Adding elements io.quarkus.bootstrap.classloading.MemoryClassPathElement@157f39bc to QuarkusClassLoader Quarkus Runtime ClassLoader: DEV restart no:0
+2022-03-17 12:29:39,723 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.boo.cla.QuarkusClassLoader] (main) Adding elements io.quarkus.bootstrap.classloading.PathTreeClassPathElement@2516fc68 to QuarkusClassLoader Quarkus Runtime ClassLoader: DEV restart no:0
+2022-03-17 12:29:39,829 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.arc.impl] (Quarkus Main Thread) ArC DI container initialized [beans=31, observers=2]
+2022-03-17 12:29:39,848 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 12:29:39,852 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 12:29:39,853 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 12:29:39,853 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 12:29:39,853 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectWriter()
+2022-03-17 12:29:39,854 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectWriter()
+2022-03-17 12:29:39,854 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReactiveStreamProvider()
+2022-03-17 12:29:39,855 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.CacheControlFeature()
+2022-03-17 12:29:39,856 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.CacheControlFeature()
+2022-03-17 12:29:39,857 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.ServerContentEncodingAnnotationFeature()
+2022-03-17 12:29:39,857 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.CompletionStageProvider()
+2022-03-17 12:29:39,857 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.ClientContentEncodingAnnotationFeature()
+2022-03-17 12:29:39,857 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationCompletionExceptionMapper()
+2022-03-17 12:29:39,858 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultNumberWriter()
+2022-03-17 12:29:39,858 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultNumberWriter()
+2022-03-17 12:29:39,859 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayReader()
+2022-03-17 12:29:39,859 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayReader()
+2022-03-17 12:29:39,859 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectReader()
+2022-03-17 12:29:39,859 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectReader()
+2022-03-17 12:29:39,860 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 12:29:39,860 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 12:29:39,860 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 12:29:39,860 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 12:29:39,860 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.ForbiddenExceptionMapper()
+2022-03-17 12:29:39,861 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.CompositeExceptionMapper()
+2022-03-17 12:29:39,868 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.NotFoundExceptionMapper()
+2022-03-17 12:29:39,871 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationRedirectExceptionMapper()
+2022-03-17 12:29:39,871 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.MultiValuedParamConverterProvider()
+2022-03-17 12:29:39,873 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 12:29:39,873 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 12:29:39,873 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 12:29:39,873 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 12:29:39,873 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultBooleanWriter()
+2022-03-17 12:29:39,873 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultBooleanWriter()
+2022-03-17 12:29:39,874 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 12:29:39,874 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 12:29:39,874 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 12:29:39,874 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 12:29:39,874 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayWriter()
+2022-03-17 12:29:39,874 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayWriter()
+2022-03-17 12:29:39,875 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.UnauthorizedExceptionMapper()
+2022-03-17 12:29:39,875 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationFailedExceptionMapper()
+2022-03-17 12:29:39,875 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StreamingOutputProvider()
+2022-03-17 12:29:39,875 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StreamingOutputProvider()
+2022-03-17 12:29:39,876 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 12:29:39,876 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 12:29:39,876 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 12:29:39,876 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 12:29:39,876 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 12:29:39,877 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 12:29:39,877 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 12:29:39,877 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 12:29:39,877 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.AsyncStreamingOutputProvider()
+2022-03-17 12:29:39,877 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.AsyncStreamingOutputProvider()
+2022-03-17 12:29:39,877 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileRangeWriter()
+2022-03-17 12:29:39,877 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileRangeWriter()
+2022-03-17 12:29:39,878 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 12:29:39,878 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 12:29:39,878 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 12:29:39,878 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 12:29:39,886 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.controller.EchoController()
+2022-03-17 12:29:39,890 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.sse.SseEventSinkInterceptor()
+2022-03-17 12:29:39,891 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.MessageSanitizerContainerResponseFilter()
+2022-03-17 12:29:39,892 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.controller.WeatherController()
+2022-03-17 12:29:39,893 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.GreetingResource()
+2022-03-17 12:29:39,917 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.cha.DefaultChannelId] (Thread-70) -Dio.netty.processId: 30436 (auto-detected)
+2022-03-17 12:29:39,918 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.cha.DefaultChannelId] (Thread-70) -Dio.netty.machineId: 6e:b0:3d:86:12:e7:e9:48 (user-set)
+2022-03-17 12:29:39,922 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.ver.cor.log.LoggerFactory] (Quarkus Main Thread) Using io.vertx.core.logging.SLF4JLogDelegateFactory
+2022-03-17 12:29:39,928 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.threads] (Quarkus Main Thread) JBoss Threads version 3.4.2.Final
+2022-03-17 12:29:39,943 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.ver.cor.run.VertxCoreRecorder] (Quarkus Main Thread) Vert.x Cache configured to: C:\Users\ZHANGT~1\AppData\Local\Temp\vertx-cache\4995718482221089329
+2022-03-17 12:29:39,949 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.ResourceLeakDetector] (Quarkus Main Thread) -Dio.netty.leakDetection.level: simple
+2022-03-17 12:29:39,949 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.ResourceLeakDetector] (Quarkus Main Thread) -Dio.netty.leakDetection.targetRecords: 4
+2022-03-17 12:29:39,954 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.cha.MultithreadEventLoopGroup] (Quarkus Main Thread) -Dio.netty.eventLoopThreads: 24
+2022-03-17 12:29:39,960 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.int.InternalThreadLocalMap] (Quarkus Main Thread) -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-03-17 12:29:39,960 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.int.InternalThreadLocalMap] (Quarkus Main Thread) -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-03-17 12:29:39,962 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.cha.nio.NioEventLoop] (Quarkus Main Thread) -Dio.netty.noKeySetOptimization: false
+2022-03-17 12:29:39,962 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.cha.nio.NioEventLoop] (Quarkus Main Thread) -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-03-17 12:29:39,963 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.int.PlatformDependent] (Quarkus Main Thread) org.jctools-core.MpscChunkedArrayQueue: available
+2022-03-17 12:29:39,987 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.ver.cor.run.VertxCoreRecorder] (Quarkus Main Thread) Vertx has Native Transport Enabled: false
+2022-03-17 12:29:40,115 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-17) -Djava.net.preferIPv4Stack: false
+2022-03-17 12:29:40,117 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-17) -Djava.net.preferIPv6Addresses: false
+2022-03-17 12:29:41,040 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.NetUtilInitializations] (vert.x-eventloop-thread-17) Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-03-17 12:29:41,041 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-17) Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-03-17 12:29:41,053 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.numHeapArenas: 24
+2022-03-17 12:29:41,053 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.numDirectArenas: 24
+2022-03-17 12:29:41,054 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.pageSize: 8192
+2022-03-17 12:29:41,054 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.maxOrder: 3
+2022-03-17 12:29:41,055 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.chunkSize: 65536
+2022-03-17 12:29:41,055 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.smallCacheSize: 256
+2022-03-17 12:29:41,056 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.normalCacheSize: 64
+2022-03-17 12:29:41,057 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-03-17 12:29:41,057 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-03-17 12:29:41,058 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-03-17 12:29:41,058 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.useCacheForAllThreads: true
+2022-03-17 12:29:41,059 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-17) -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-03-17 12:29:41,081 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-17) -Dio.netty.allocator.type: pooled
+2022-03-17 12:29:41,081 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-17) -Dio.netty.threadLocalDirectBufferSize: 0
+2022-03-17 12:29:41,082 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-17) -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-03-17 12:29:41,100 laptop-b90n927l getting-started-dev.jar[30436] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.058s. Listening on: http://localhost:8081
+2022-03-17 12:29:41,101 laptop-b90n927l getting-started-dev.jar[30436] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-17 12:29:41,102 laptop-b90n927l getting-started-dev.jar[30436] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, smallrye-context-propagation, vertx]
+2022-03-17 12:29:58,849 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-17) -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-03-17 12:29:58,850 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-17) -Dio.netty.recycler.ratio: 8
+2022-03-17 12:29:58,851 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-17) -Dio.netty.recycler.chunkSize: 32
+2022-03-17 12:29:58,852 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-17) -Dio.netty.recycler.blocking: false
+2022-03-17 12:29:58,856 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.AbstractByteBuf] (vert.x-eventloop-thread-17) -Dio.netty.buffer.checkAccessible: true
+2022-03-17 12:29:58,857 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.buf.AbstractByteBuf] (vert.x-eventloop-thread-17) -Dio.netty.buffer.checkBounds: true
+2022-03-17 12:29:58,858 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.uti.ResourceLeakDetectorFactory] (vert.x-eventloop-thread-17) Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6c1d28d
+2022-03-17 12:29:58,884 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.han.cod.com.ZlibCodecFactory] (vert.x-eventloop-thread-17) -Dio.netty.noJdkZlibDecoder: false
+2022-03-17 12:29:58,885 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.net.han.cod.com.ZlibCodecFactory] (vert.x-eventloop-thread-17) -Dio.netty.noJdkZlibEncoder: false
+2022-03-17 12:29:58,942 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /api/echo/ss
+2022-03-17 12:29:58,952 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:29:58,953 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:29:58,954 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:29:58,956 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:29:58,956 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) Interceptor Context: org.jboss.resteasy.core.interception.jaxrs.ServerWriterInterceptorContext,  Method : proceed
+2022-03-17 12:29:58,958 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:29:58,958 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:29:59,022 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /favicon.ico
+2022-03-17 12:29:59,032 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) {image/avif=org.jboss.resteasy.core.request.QualityValue@3e8, image/webp=org.jboss.resteasy.core.request.QualityValue@3e8, image/apng=org.jboss.resteasy.core.request.QualityValue@3e8, image/svg+xml=org.jboss.resteasy.core.request.QualityValue@3e8, image/*=org.jboss.resteasy.core.request.QualityValue@3e8, */*=org.jboss.resteasy.core.request.QualityValue@320}
+2022-03-17 12:30:09,012 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /api/currentcity
+2022-03-17 12:30:09,018 laptop-b90n927l getting-started-dev.jar[30436] ERROR [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002005: Failed executing GET /api/currentcity: org.jboss.resteasy.spi.InternalServerErrorException: RESTEASY003815: Subresource for target class has no jax-rs annotations.: java.lang.String
+	at org.jboss.resteasy.core.ResourceLocatorInvoker.invokeOnTargetObject(ResourceLocatorInvoker.java:170)
+	at org.jboss.resteasy.core.ResourceLocatorInvoker.invoke(ResourceLocatorInvoker.java:141)
+	at org.jboss.resteasy.core.ResourceLocatorInvoker.invoke(ResourceLocatorInvoker.java:32)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:492)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$invoke$4(SynchronousDispatcher.java:261)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$preprocess$0(SynchronousDispatcher.java:161)
+	at org.jboss.resteasy.core.interception.jaxrs.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:364)
+	at org.jboss.resteasy.core.SynchronousDispatcher.preprocess(SynchronousDispatcher.java:164)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:247)
+	at io.quarkus.resteasy.runtime.standalone.RequestDispatcher.service(RequestDispatcher.java:73)
+	at io.quarkus.resteasy.runtime.standalone.VertxRequestHandler.dispatch(VertxRequestHandler.java:151)
+	at io.quarkus.resteasy.runtime.standalone.VertxRequestHandler$1.run(VertxRequestHandler.java:91)
+	at io.quarkus.vertx.core.runtime.VertxCoreRecorder$13.runWith(VertxCoreRecorder.java:543)
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2449)
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1478)
+	at org.jboss.threads.DelegatingRunnable.run(DelegatingRunnable.java:29)
+	at org.jboss.threads.ThreadLocalResettingRunnable.run(ThreadLocalResettingRunnable.java:29)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2022-03-17 12:30:09,021 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:30:09,022 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:30:09,022 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:30:09,023 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:30:09,023 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) Interceptor Context: org.jboss.resteasy.core.interception.jaxrs.ServerWriterInterceptorContext,  Method : proceed
+2022-03-17 12:30:09,024 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:30:09,025 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:31:37,274 laptop-b90n927l getting-started-dev.jar[30436] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Running all shutdown-hook tasks
+2022-03-17 12:31:37,281 laptop-b90n927l getting-started-dev.jar[30436] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Running task: 
+2022-03-17 12:31:37,282 laptop-b90n927l getting-started-dev.jar[30436] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Removing shutdown-hook: 
+2022-03-17 12:31:37,321 laptop-b90n927l getting-started-dev.jar[30436] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-17 12:31:37,320 laptop-b90n927l getting-started-dev.jar[30436] DEBUG [io.qua.arc.impl] (Shutdown thread) ArC DI container shut down
+2022-03-17 12:31:37,323 laptop-b90n927l getting-started-dev.jar[30436] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-17 12:31:37,323 laptop-b90n927l getting-started-dev.jar[30436] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.046s
+2022-03-17 12:31:54,858 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.boo.cla.QuarkusClassLoader] (main) Adding elements io.quarkus.bootstrap.classloading.MemoryClassPathElement@500247b6 to QuarkusClassLoader Quarkus Runtime ClassLoader: DEV restart no:0
+2022-03-17 12:31:54,858 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.boo.cla.QuarkusClassLoader] (main) Adding elements io.quarkus.bootstrap.classloading.PathTreeClassPathElement@2516fc68 to QuarkusClassLoader Quarkus Runtime ClassLoader: DEV restart no:0
+2022-03-17 12:31:54,975 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.arc.impl] (Quarkus Main Thread) ArC DI container initialized [beans=31, observers=2]
+2022-03-17 12:31:54,995 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 12:31:54,998 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 12:31:54,999 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 12:31:54,999 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 12:31:55,000 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectWriter()
+2022-03-17 12:31:55,001 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectWriter()
+2022-03-17 12:31:55,001 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReactiveStreamProvider()
+2022-03-17 12:31:55,002 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.CacheControlFeature()
+2022-03-17 12:31:55,002 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.CacheControlFeature()
+2022-03-17 12:31:55,003 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.ServerContentEncodingAnnotationFeature()
+2022-03-17 12:31:55,003 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.CompletionStageProvider()
+2022-03-17 12:31:55,004 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.ClientContentEncodingAnnotationFeature()
+2022-03-17 12:31:55,004 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationCompletionExceptionMapper()
+2022-03-17 12:31:55,005 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultNumberWriter()
+2022-03-17 12:31:55,005 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultNumberWriter()
+2022-03-17 12:31:55,005 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayReader()
+2022-03-17 12:31:55,006 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayReader()
+2022-03-17 12:31:55,006 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectReader()
+2022-03-17 12:31:55,006 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectReader()
+2022-03-17 12:31:55,006 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 12:31:55,007 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 12:31:55,007 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 12:31:55,007 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 12:31:55,007 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.ForbiddenExceptionMapper()
+2022-03-17 12:31:55,007 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.CompositeExceptionMapper()
+2022-03-17 12:31:55,015 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.NotFoundExceptionMapper()
+2022-03-17 12:31:55,018 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationRedirectExceptionMapper()
+2022-03-17 12:31:55,018 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.MultiValuedParamConverterProvider()
+2022-03-17 12:31:55,019 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 12:31:55,019 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 12:31:55,020 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 12:31:55,020 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 12:31:55,020 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultBooleanWriter()
+2022-03-17 12:31:55,020 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultBooleanWriter()
+2022-03-17 12:31:55,020 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 12:31:55,020 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 12:31:55,020 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 12:31:55,020 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 12:31:55,021 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.UnauthorizedExceptionMapper()
+2022-03-17 12:31:55,021 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayWriter()
+2022-03-17 12:31:55,021 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayWriter()
+2022-03-17 12:31:55,022 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationFailedExceptionMapper()
+2022-03-17 12:31:55,022 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StreamingOutputProvider()
+2022-03-17 12:31:55,022 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StreamingOutputProvider()
+2022-03-17 12:31:55,023 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 12:31:55,023 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 12:31:55,023 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 12:31:55,023 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 12:31:55,024 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 12:31:55,024 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 12:31:55,024 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 12:31:55,024 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 12:31:55,024 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.AsyncStreamingOutputProvider()
+2022-03-17 12:31:55,025 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.AsyncStreamingOutputProvider()
+2022-03-17 12:31:55,025 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileRangeWriter()
+2022-03-17 12:31:55,025 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileRangeWriter()
+2022-03-17 12:31:55,025 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 12:31:55,026 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 12:31:55,026 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 12:31:55,026 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 12:31:55,034 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.controller.EchoController()
+2022-03-17 12:31:55,038 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.sse.SseEventSinkInterceptor()
+2022-03-17 12:31:55,039 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.MessageSanitizerContainerResponseFilter()
+2022-03-17 12:31:55,040 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.controller.WeatherController()
+2022-03-17 12:31:55,041 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.GreetingResource()
+2022-03-17 12:31:55,067 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.cha.DefaultChannelId] (Thread-69) -Dio.netty.processId: 29732 (auto-detected)
+2022-03-17 12:31:55,068 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.cha.DefaultChannelId] (Thread-69) -Dio.netty.machineId: f8:2b:26:89:c8:41:37:74 (user-set)
+2022-03-17 12:31:55,071 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.ver.cor.log.LoggerFactory] (Quarkus Main Thread) Using io.vertx.core.logging.SLF4JLogDelegateFactory
+2022-03-17 12:31:55,077 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.threads] (Quarkus Main Thread) JBoss Threads version 3.4.2.Final
+2022-03-17 12:31:55,094 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.ver.cor.run.VertxCoreRecorder] (Quarkus Main Thread) Vert.x Cache configured to: C:\Users\ZHANGT~1\AppData\Local\Temp\vertx-cache\8939415083507076143
+2022-03-17 12:31:55,101 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.ResourceLeakDetector] (Quarkus Main Thread) -Dio.netty.leakDetection.level: simple
+2022-03-17 12:31:55,101 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.ResourceLeakDetector] (Quarkus Main Thread) -Dio.netty.leakDetection.targetRecords: 4
+2022-03-17 12:31:55,105 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.cha.MultithreadEventLoopGroup] (Quarkus Main Thread) -Dio.netty.eventLoopThreads: 24
+2022-03-17 12:31:55,111 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.int.InternalThreadLocalMap] (Quarkus Main Thread) -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-03-17 12:31:55,111 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.int.InternalThreadLocalMap] (Quarkus Main Thread) -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-03-17 12:31:55,113 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.cha.nio.NioEventLoop] (Quarkus Main Thread) -Dio.netty.noKeySetOptimization: false
+2022-03-17 12:31:55,113 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.cha.nio.NioEventLoop] (Quarkus Main Thread) -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-03-17 12:31:55,114 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.int.PlatformDependent] (Quarkus Main Thread) org.jctools-core.MpscChunkedArrayQueue: available
+2022-03-17 12:31:55,140 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.ver.cor.run.VertxCoreRecorder] (Quarkus Main Thread) Vertx has Native Transport Enabled: false
+2022-03-17 12:31:55,283 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-12) -Djava.net.preferIPv4Stack: false
+2022-03-17 12:31:55,285 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-12) -Djava.net.preferIPv6Addresses: false
+2022-03-17 12:31:56,221 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.NetUtilInitializations] (vert.x-eventloop-thread-12) Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-03-17 12:31:56,222 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-12) Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-03-17 12:31:56,237 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.numHeapArenas: 24
+2022-03-17 12:31:56,237 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.numDirectArenas: 24
+2022-03-17 12:31:56,238 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.pageSize: 8192
+2022-03-17 12:31:56,239 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.maxOrder: 3
+2022-03-17 12:31:56,240 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.chunkSize: 65536
+2022-03-17 12:31:56,257 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.smallCacheSize: 256
+2022-03-17 12:31:56,261 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.normalCacheSize: 64
+2022-03-17 12:31:56,263 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-03-17 12:31:56,268 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-03-17 12:31:56,272 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-03-17 12:31:56,272 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.useCacheForAllThreads: true
+2022-03-17 12:31:56,273 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-12) -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-03-17 12:31:56,294 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-12) -Dio.netty.allocator.type: pooled
+2022-03-17 12:31:56,294 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-12) -Dio.netty.threadLocalDirectBufferSize: 0
+2022-03-17 12:31:56,295 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-12) -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-03-17 12:31:56,315 laptop-b90n927l getting-started-dev.jar[29732] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.255s. Listening on: http://localhost:8081
+2022-03-17 12:31:56,316 laptop-b90n927l getting-started-dev.jar[29732] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-17 12:31:56,316 laptop-b90n927l getting-started-dev.jar[29732] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, smallrye-context-propagation, vertx]
+2022-03-17 12:31:56,479 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-12) -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-03-17 12:31:56,480 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-12) -Dio.netty.recycler.ratio: 8
+2022-03-17 12:31:56,481 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-12) -Dio.netty.recycler.chunkSize: 32
+2022-03-17 12:31:56,482 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-12) -Dio.netty.recycler.blocking: false
+2022-03-17 12:31:56,487 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.AbstractByteBuf] (vert.x-eventloop-thread-12) -Dio.netty.buffer.checkAccessible: true
+2022-03-17 12:31:56,487 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.buf.AbstractByteBuf] (vert.x-eventloop-thread-12) -Dio.netty.buffer.checkBounds: true
+2022-03-17 12:31:56,488 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.uti.ResourceLeakDetectorFactory] (vert.x-eventloop-thread-12) Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7ccf5fd9
+2022-03-17 12:31:56,525 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.han.cod.com.ZlibCodecFactory] (vert.x-eventloop-thread-12) -Dio.netty.noJdkZlibDecoder: false
+2022-03-17 12:31:56,526 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.net.han.cod.com.ZlibCodecFactory] (vert.x-eventloop-thread-12) -Dio.netty.noJdkZlibEncoder: false
+2022-03-17 12:31:56,569 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /api/currentcity
+2022-03-17 12:31:56,582 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:31:56,583 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:31:56,583 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:31:56,585 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:31:56,586 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) Interceptor Context: org.jboss.resteasy.core.interception.jaxrs.ServerWriterInterceptorContext,  Method : proceed
+2022-03-17 12:31:56,587 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:31:56,587 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:32:03,793 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /api/weather
+2022-03-17 12:32:04,373 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:32:04,373 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:32:04,374 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:32:04,374 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:32:04,375 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) Interceptor Context: org.jboss.resteasy.core.interception.jaxrs.ServerWriterInterceptorContext,  Method : proceed
+2022-03-17 12:32:04,375 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:32:04,376 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:32:17,566 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /api/weather/π„÷›
+2022-03-17 12:32:17,723 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:32:17,724 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:32:17,725 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:32:17,726 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:32:17,727 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) Interceptor Context: org.jboss.resteasy.core.interception.jaxrs.ServerWriterInterceptorContext,  Method : proceed
+2022-03-17 12:32:17,728 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 12:32:17,729 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 12:32:23,947 laptop-b90n927l getting-started-dev.jar[29732] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Running all shutdown-hook tasks
+2022-03-17 12:32:23,948 laptop-b90n927l getting-started-dev.jar[29732] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Running task: 
+2022-03-17 12:32:23,949 laptop-b90n927l getting-started-dev.jar[29732] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Removing shutdown-hook: 
+2022-03-17 12:32:23,978 laptop-b90n927l getting-started-dev.jar[29732] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-17 12:32:23,978 laptop-b90n927l getting-started-dev.jar[29732] DEBUG [io.qua.arc.impl] (Shutdown thread) ArC DI container shut down
+2022-03-17 12:32:23,980 laptop-b90n927l getting-started-dev.jar[29732] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-17 12:32:23,980 laptop-b90n927l getting-started-dev.jar[29732] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.032s
+2022-03-17 15:00:03,684 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.boo.cla.QuarkusClassLoader] (main) Adding elements io.quarkus.bootstrap.classloading.MemoryClassPathElement@1771443b to QuarkusClassLoader Quarkus Runtime ClassLoader: DEV restart no:0
+2022-03-17 15:00:03,684 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.boo.cla.QuarkusClassLoader] (main) Adding elements io.quarkus.bootstrap.classloading.PathTreeClassPathElement@111610e6 to QuarkusClassLoader Quarkus Runtime ClassLoader: DEV restart no:0
+2022-03-17 15:00:03,805 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.arc.impl] (Quarkus Main Thread) ArC DI container initialized [beans=36, observers=2]
+2022-03-17 15:00:03,824 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusObjectMapperContextResolver()
+2022-03-17 15:00:03,903 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 15:00:03,904 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 15:00:03,904 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 15:00:03,904 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 15:00:03,905 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectWriter()
+2022-03-17 15:00:03,906 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectWriter()
+2022-03-17 15:00:03,906 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReactiveStreamProvider()
+2022-03-17 15:00:03,907 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.CacheControlFeature()
+2022-03-17 15:00:03,908 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.CacheControlFeature()
+2022-03-17 15:00:03,909 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.ServerContentEncodingAnnotationFeature()
+2022-03-17 15:00:03,909 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.CompletionStageProvider()
+2022-03-17 15:00:03,909 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.ClientContentEncodingAnnotationFeature()
+2022-03-17 15:00:03,909 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationCompletionExceptionMapper()
+2022-03-17 15:00:03,910 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultNumberWriter()
+2022-03-17 15:00:03,910 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultNumberWriter()
+2022-03-17 15:00:03,912 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.ResteasyJackson2Provider()
+2022-03-17 15:00:03,919 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.ResteasyJackson2Provider()
+2022-03-17 15:00:03,919 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.ResteasyJackson2Provider()
+2022-03-17 15:00:03,919 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.ResteasyJackson2Provider()
+2022-03-17 15:00:03,920 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.UnrecognizedPropertyExceptionHandler()
+2022-03-17 15:00:03,921 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.mutiny.common.runtime.MultiProvider()
+2022-03-17 15:00:03,922 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusJacksonSerializer()
+2022-03-17 15:00:03,922 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusJacksonSerializer()
+2022-03-17 15:00:03,922 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusJacksonSerializer()
+2022-03-17 15:00:03,922 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusJacksonSerializer()
+2022-03-17 15:00:03,923 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayReader()
+2022-03-17 15:00:03,923 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayReader()
+2022-03-17 15:00:03,924 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectReader()
+2022-03-17 15:00:03,924 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectReader()
+2022-03-17 15:00:03,924 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 15:00:03,925 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 15:00:03,925 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 15:00:03,925 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 15:00:03,925 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.ForbiddenExceptionMapper()
+2022-03-17 15:00:03,925 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.CompositeExceptionMapper()
+2022-03-17 15:00:03,927 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.NotFoundExceptionMapper()
+2022-03-17 15:00:03,929 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationRedirectExceptionMapper()
+2022-03-17 15:00:03,930 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.MultiValuedParamConverterProvider()
+2022-03-17 15:00:03,931 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 15:00:03,932 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 15:00:03,932 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 15:00:03,932 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 15:00:03,932 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultBooleanWriter()
+2022-03-17 15:00:03,932 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultBooleanWriter()
+2022-03-17 15:00:03,932 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 15:00:03,932 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 15:00:03,932 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 15:00:03,932 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 15:00:03,933 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayWriter()
+2022-03-17 15:00:03,933 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayWriter()
+2022-03-17 15:00:03,933 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.UnauthorizedExceptionMapper()
+2022-03-17 15:00:03,933 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.mutiny.common.runtime.UniProvider()
+2022-03-17 15:00:03,934 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.mutiny.common.runtime.UniProvider()
+2022-03-17 15:00:03,934 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationFailedExceptionMapper()
+2022-03-17 15:00:03,935 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StreamingOutputProvider()
+2022-03-17 15:00:03,935 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StreamingOutputProvider()
+2022-03-17 15:00:03,935 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 15:00:03,935 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 15:00:03,935 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 15:00:03,936 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 15:00:03,936 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 15:00:03,936 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 15:00:03,936 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 15:00:03,936 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 15:00:03,937 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.AsyncStreamingOutputProvider()
+2022-03-17 15:00:03,937 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.AsyncStreamingOutputProvider()
+2022-03-17 15:00:03,937 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileRangeWriter()
+2022-03-17 15:00:03,937 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileRangeWriter()
+2022-03-17 15:00:03,938 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 15:00:03,938 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 15:00:03,938 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 15:00:03,938 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 15:00:03,946 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.controller.EchoController()
+2022-03-17 15:00:03,950 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.PatchMethodFilter()
+2022-03-17 15:00:03,950 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.sse.SseEventSinkInterceptor()
+2022-03-17 15:00:03,951 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.MessageSanitizerContainerResponseFilter()
+2022-03-17 15:00:03,952 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.controller.WeatherController()
+2022-03-17 15:00:03,953 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.GreetingResource()
+2022-03-17 15:00:03,978 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.cha.DefaultChannelId] (Thread-72) -Dio.netty.processId: 37564 (auto-detected)
+2022-03-17 15:00:03,978 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.cha.DefaultChannelId] (Thread-72) -Dio.netty.machineId: 69:45:e6:06:76:9b:30:a4 (user-set)
+2022-03-17 15:00:03,986 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.threads] (Quarkus Main Thread) JBoss Threads version 3.4.2.Final
+2022-03-17 15:00:03,992 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.ver.cor.log.LoggerFactory] (Quarkus Main Thread) Using io.vertx.core.logging.SLF4JLogDelegateFactory
+2022-03-17 15:00:04,005 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.ver.cor.run.VertxCoreRecorder] (Quarkus Main Thread) Vert.x Cache configured to: C:\Users\ZHANGT~1\AppData\Local\Temp\vertx-cache\7151284822327013456
+2022-03-17 15:00:04,012 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.ResourceLeakDetector] (Quarkus Main Thread) -Dio.netty.leakDetection.level: simple
+2022-03-17 15:00:04,012 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.ResourceLeakDetector] (Quarkus Main Thread) -Dio.netty.leakDetection.targetRecords: 4
+2022-03-17 15:00:04,017 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.cha.MultithreadEventLoopGroup] (Quarkus Main Thread) -Dio.netty.eventLoopThreads: 24
+2022-03-17 15:00:04,024 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.int.InternalThreadLocalMap] (Quarkus Main Thread) -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-03-17 15:00:04,024 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.int.InternalThreadLocalMap] (Quarkus Main Thread) -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-03-17 15:00:04,026 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.cha.nio.NioEventLoop] (Quarkus Main Thread) -Dio.netty.noKeySetOptimization: false
+2022-03-17 15:00:04,026 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.cha.nio.NioEventLoop] (Quarkus Main Thread) -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-03-17 15:00:04,027 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.int.PlatformDependent] (Quarkus Main Thread) org.jctools-core.MpscChunkedArrayQueue: available
+2022-03-17 15:00:04,051 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.ver.cor.run.VertxCoreRecorder] (Quarkus Main Thread) Vertx has Native Transport Enabled: false
+2022-03-17 15:00:04,199 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-8) -Djava.net.preferIPv4Stack: false
+2022-03-17 15:00:04,200 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-8) -Djava.net.preferIPv6Addresses: false
+2022-03-17 15:00:05,147 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.NetUtilInitializations] (vert.x-eventloop-thread-8) Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-03-17 15:00:05,148 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-8) Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-03-17 15:00:05,159 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.numHeapArenas: 24
+2022-03-17 15:00:05,160 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.numDirectArenas: 24
+2022-03-17 15:00:05,161 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.pageSize: 8192
+2022-03-17 15:00:05,161 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.maxOrder: 3
+2022-03-17 15:00:05,163 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.chunkSize: 65536
+2022-03-17 15:00:05,163 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.smallCacheSize: 256
+2022-03-17 15:00:05,163 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.normalCacheSize: 64
+2022-03-17 15:00:05,163 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-03-17 15:00:05,164 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-03-17 15:00:05,165 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-03-17 15:00:05,166 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.useCacheForAllThreads: true
+2022-03-17 15:00:05,166 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-8) -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-03-17 15:00:05,187 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-8) -Dio.netty.allocator.type: pooled
+2022-03-17 15:00:05,188 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-8) -Dio.netty.threadLocalDirectBufferSize: 0
+2022-03-17 15:00:05,188 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-8) -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-03-17 15:00:05,205 laptop-b90n927l getting-started-dev.jar[37564] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.355s. Listening on: http://localhost:8081
+2022-03-17 15:00:05,206 laptop-b90n927l getting-started-dev.jar[37564] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-17 15:00:05,207 laptop-b90n927l getting-started-dev.jar[37564] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-17 15:00:18,091 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-8) -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-03-17 15:00:18,092 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-8) -Dio.netty.recycler.ratio: 8
+2022-03-17 15:00:18,093 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-8) -Dio.netty.recycler.chunkSize: 32
+2022-03-17 15:00:18,093 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-8) -Dio.netty.recycler.blocking: false
+2022-03-17 15:00:18,098 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.AbstractByteBuf] (vert.x-eventloop-thread-8) -Dio.netty.buffer.checkAccessible: true
+2022-03-17 15:00:18,100 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.buf.AbstractByteBuf] (vert.x-eventloop-thread-8) -Dio.netty.buffer.checkBounds: true
+2022-03-17 15:00:18,101 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.uti.ResourceLeakDetectorFactory] (vert.x-eventloop-thread-8) Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@613c05c5
+2022-03-17 15:00:18,142 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.han.cod.com.ZlibCodecFactory] (vert.x-eventloop-thread-8) -Dio.netty.noJdkZlibDecoder: false
+2022-03-17 15:00:18,143 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.net.han.cod.com.ZlibCodecFactory] (vert.x-eventloop-thread-8) -Dio.netty.noJdkZlibEncoder: false
+2022-03-17 15:00:18,188 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /api/currentcity
+2022-03-17 15:00:18,210 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:00:18,210 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:00:18,211 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:00:18,213 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:00:18,213 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) Interceptor Context: org.jboss.resteasy.core.interception.jaxrs.ServerWriterInterceptorContext,  Method : proceed
+2022-03-17 15:00:18,214 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:00:18,214 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:00:20,009 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /api/currentcity
+2022-03-17 15:00:20,010 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:00:20,010 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:00:20,011 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:00:20,012 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:00:20,012 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) Interceptor Context: org.jboss.resteasy.core.interception.jaxrs.ServerWriterInterceptorContext,  Method : proceed
+2022-03-17 15:00:20,013 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:00:20,013 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:26:16,234 laptop-b90n927l getting-started-dev.jar[37564] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Running all shutdown-hook tasks
+2022-03-17 15:26:16,236 laptop-b90n927l getting-started-dev.jar[37564] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Running task: 
+2022-03-17 15:26:16,236 laptop-b90n927l getting-started-dev.jar[37564] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Removing shutdown-hook: 
+2022-03-17 15:26:16,267 laptop-b90n927l getting-started-dev.jar[37564] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-17 15:26:16,267 laptop-b90n927l getting-started-dev.jar[37564] DEBUG [io.qua.arc.impl] (Shutdown thread) ArC DI container shut down
+2022-03-17 15:26:16,269 laptop-b90n927l getting-started-dev.jar[37564] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-17 15:26:16,269 laptop-b90n927l getting-started-dev.jar[37564] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.033s
+2022-03-17 15:26:36,125 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.boo.cla.QuarkusClassLoader] (main) Adding elements io.quarkus.bootstrap.classloading.MemoryClassPathElement@f618789 to QuarkusClassLoader Quarkus Runtime ClassLoader: DEV restart no:0
+2022-03-17 15:26:36,125 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.boo.cla.QuarkusClassLoader] (main) Adding elements io.quarkus.bootstrap.classloading.PathTreeClassPathElement@111610e6 to QuarkusClassLoader Quarkus Runtime ClassLoader: DEV restart no:0
+2022-03-17 15:26:36,249 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.arc.impl] (Quarkus Main Thread) ArC DI container initialized [beans=36, observers=2]
+2022-03-17 15:26:36,269 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusObjectMapperContextResolver()
+2022-03-17 15:26:36,347 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 15:26:36,348 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 15:26:36,348 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 15:26:36,348 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultTextPlain()
+2022-03-17 15:26:36,349 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectWriter()
+2022-03-17 15:26:36,350 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectWriter()
+2022-03-17 15:26:36,350 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReactiveStreamProvider()
+2022-03-17 15:26:36,352 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.CacheControlFeature()
+2022-03-17 15:26:36,352 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.CacheControlFeature()
+2022-03-17 15:26:36,353 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.ServerContentEncodingAnnotationFeature()
+2022-03-17 15:26:36,353 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.CompletionStageProvider()
+2022-03-17 15:26:36,353 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.ClientContentEncodingAnnotationFeature()
+2022-03-17 15:26:36,354 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationCompletionExceptionMapper()
+2022-03-17 15:26:36,354 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultNumberWriter()
+2022-03-17 15:26:36,355 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultNumberWriter()
+2022-03-17 15:26:36,356 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.ResteasyJackson2Provider()
+2022-03-17 15:26:36,363 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.ResteasyJackson2Provider()
+2022-03-17 15:26:36,363 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.ResteasyJackson2Provider()
+2022-03-17 15:26:36,363 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.ResteasyJackson2Provider()
+2022-03-17 15:26:36,363 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.UnrecognizedPropertyExceptionHandler()
+2022-03-17 15:26:36,364 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.mutiny.common.runtime.MultiProvider()
+2022-03-17 15:26:36,366 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusJacksonSerializer()
+2022-03-17 15:26:36,366 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusJacksonSerializer()
+2022-03-17 15:26:36,366 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusJacksonSerializer()
+2022-03-17 15:26:36,366 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.common.runtime.jackson.QuarkusJacksonSerializer()
+2022-03-17 15:26:36,367 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayReader()
+2022-03-17 15:26:36,367 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayReader()
+2022-03-17 15:26:36,367 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectReader()
+2022-03-17 15:26:36,367 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonObjectReader()
+2022-03-17 15:26:36,368 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 15:26:36,368 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 15:26:36,368 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 15:26:36,368 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileProvider()
+2022-03-17 15:26:36,369 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.ForbiddenExceptionMapper()
+2022-03-17 15:26:36,369 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.CompositeExceptionMapper()
+2022-03-17 15:26:36,372 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.NotFoundExceptionMapper()
+2022-03-17 15:26:36,374 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationRedirectExceptionMapper()
+2022-03-17 15:26:36,375 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.MultiValuedParamConverterProvider()
+2022-03-17 15:26:36,377 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 15:26:36,377 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 15:26:36,377 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 15:26:36,377 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ByteArrayProvider()
+2022-03-17 15:26:36,377 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultBooleanWriter()
+2022-03-17 15:26:36,377 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DefaultBooleanWriter()
+2022-03-17 15:26:36,378 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 15:26:36,378 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 15:26:36,378 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 15:26:36,378 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StringTextStar()
+2022-03-17 15:26:36,378 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayWriter()
+2022-03-17 15:26:36,378 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.vertx.JsonArrayWriter()
+2022-03-17 15:26:36,379 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.UnauthorizedExceptionMapper()
+2022-03-17 15:26:36,379 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.mutiny.common.runtime.UniProvider()
+2022-03-17 15:26:36,379 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.mutiny.common.runtime.UniProvider()
+2022-03-17 15:26:36,379 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public io.quarkus.resteasy.runtime.AuthenticationFailedExceptionMapper()
+2022-03-17 15:26:36,380 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StreamingOutputProvider()
+2022-03-17 15:26:36,380 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.StreamingOutputProvider()
+2022-03-17 15:26:36,380 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 15:26:36,380 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 15:26:36,380 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 15:26:36,380 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.ReaderProvider()
+2022-03-17 15:26:36,381 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 15:26:36,381 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 15:26:36,381 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 15:26:36,381 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.DataSourceProvider()
+2022-03-17 15:26:36,381 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.AsyncStreamingOutputProvider()
+2022-03-17 15:26:36,382 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.AsyncStreamingOutputProvider()
+2022-03-17 15:26:36,382 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileRangeWriter()
+2022-03-17 15:26:36,382 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.FileRangeWriter()
+2022-03-17 15:26:36,382 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 15:26:36,382 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 15:26:36,383 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 15:26:36,383 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.InputStreamProvider()
+2022-03-17 15:26:36,390 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.controller.EchoController()
+2022-03-17 15:26:36,394 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.jackson.PatchMethodFilter()
+2022-03-17 15:26:36,394 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.providers.sse.SseEventSinkInterceptor()
+2022-03-17 15:26:36,395 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create constructor: public org.jboss.resteasy.plugins.interceptors.MessageSanitizerContainerResponseFilter()
+2022-03-17 15:26:36,396 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.controller.WeatherController()
+2022-03-17 15:26:36,397 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.res.runtime] (Quarkus Main Thread) Create resource constructor: public org.acme.quickstart.GreetingResource()
+2022-03-17 15:26:36,422 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.cha.DefaultChannelId] (Thread-52) -Dio.netty.processId: 2140 (auto-detected)
+2022-03-17 15:26:36,423 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.cha.DefaultChannelId] (Thread-52) -Dio.netty.machineId: 3e:49:b6:6f:04:a3:de:1b (user-set)
+2022-03-17 15:26:36,427 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.ver.cor.log.LoggerFactory] (Quarkus Main Thread) Using io.vertx.core.logging.SLF4JLogDelegateFactory
+2022-03-17 15:26:36,433 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.threads] (Quarkus Main Thread) JBoss Threads version 3.4.2.Final
+2022-03-17 15:26:36,449 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.ver.cor.run.VertxCoreRecorder] (Quarkus Main Thread) Vert.x Cache configured to: C:\Users\ZHANGT~1\AppData\Local\Temp\vertx-cache\1651103708967750530
+2022-03-17 15:26:36,455 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.ResourceLeakDetector] (Quarkus Main Thread) -Dio.netty.leakDetection.level: simple
+2022-03-17 15:26:36,455 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.ResourceLeakDetector] (Quarkus Main Thread) -Dio.netty.leakDetection.targetRecords: 4
+2022-03-17 15:26:36,460 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.cha.MultithreadEventLoopGroup] (Quarkus Main Thread) -Dio.netty.eventLoopThreads: 24
+2022-03-17 15:26:36,467 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.int.InternalThreadLocalMap] (Quarkus Main Thread) -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-03-17 15:26:36,467 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.int.InternalThreadLocalMap] (Quarkus Main Thread) -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-03-17 15:26:36,469 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.cha.nio.NioEventLoop] (Quarkus Main Thread) -Dio.netty.noKeySetOptimization: false
+2022-03-17 15:26:36,469 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.cha.nio.NioEventLoop] (Quarkus Main Thread) -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-03-17 15:26:36,469 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.int.PlatformDependent] (Quarkus Main Thread) org.jctools-core.MpscChunkedArrayQueue: available
+2022-03-17 15:26:36,495 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.ver.cor.run.VertxCoreRecorder] (Quarkus Main Thread) Vertx has Native Transport Enabled: false
+2022-03-17 15:26:36,633 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-5) -Djava.net.preferIPv4Stack: false
+2022-03-17 15:26:36,634 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-5) -Djava.net.preferIPv6Addresses: false
+2022-03-17 15:26:37,559 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.NetUtilInitializations] (vert.x-eventloop-thread-5) Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-03-17 15:26:37,560 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.NetUtil] (vert.x-eventloop-thread-5) Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-03-17 15:26:37,572 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.numHeapArenas: 24
+2022-03-17 15:26:37,573 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.numDirectArenas: 24
+2022-03-17 15:26:37,574 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.pageSize: 8192
+2022-03-17 15:26:37,574 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.maxOrder: 3
+2022-03-17 15:26:37,575 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.chunkSize: 65536
+2022-03-17 15:26:37,575 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.smallCacheSize: 256
+2022-03-17 15:26:37,576 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.normalCacheSize: 64
+2022-03-17 15:26:37,576 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-03-17 15:26:37,577 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-03-17 15:26:37,577 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-03-17 15:26:37,578 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.useCacheForAllThreads: true
+2022-03-17 15:26:37,578 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.PooledByteBufAllocator] (vert.x-eventloop-thread-5) -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-03-17 15:26:37,597 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-5) -Dio.netty.allocator.type: pooled
+2022-03-17 15:26:37,598 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-5) -Dio.netty.threadLocalDirectBufferSize: 0
+2022-03-17 15:26:37,600 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.ByteBufUtil] (vert.x-eventloop-thread-5) -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-03-17 15:26:37,618 laptop-b90n927l getting-started-dev.jar[2140] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.246s. Listening on: http://localhost:8081
+2022-03-17 15:26:37,618 laptop-b90n927l getting-started-dev.jar[2140] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-17 15:26:37,619 laptop-b90n927l getting-started-dev.jar[2140] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-17 15:27:52,996 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-5) -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-03-17 15:27:52,997 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-5) -Dio.netty.recycler.ratio: 8
+2022-03-17 15:27:52,997 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-5) -Dio.netty.recycler.chunkSize: 32
+2022-03-17 15:27:52,998 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.Recycler] (vert.x-eventloop-thread-5) -Dio.netty.recycler.blocking: false
+2022-03-17 15:27:53,003 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.AbstractByteBuf] (vert.x-eventloop-thread-5) -Dio.netty.buffer.checkAccessible: true
+2022-03-17 15:27:53,005 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.buf.AbstractByteBuf] (vert.x-eventloop-thread-5) -Dio.netty.buffer.checkBounds: true
+2022-03-17 15:27:53,006 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.uti.ResourceLeakDetectorFactory] (vert.x-eventloop-thread-5) Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@734e898d
+2022-03-17 15:27:53,047 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.han.cod.com.ZlibCodecFactory] (vert.x-eventloop-thread-5) -Dio.netty.noJdkZlibDecoder: false
+2022-03-17 15:27:53,049 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.net.han.cod.com.ZlibCodecFactory] (vert.x-eventloop-thread-5) -Dio.netty.noJdkZlibEncoder: false
+2022-03-17 15:27:53,099 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /api/currentcity
+2022-03-17 15:27:53,120 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:27:53,121 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:27:53,121 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:27:53,124 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:27:53,126 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) Interceptor Context: org.jboss.resteasy.core.interception.jaxrs.ServerWriterInterceptorContext,  Method : proceed
+2022-03-17 15:27:53,128 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:27:53,130 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:28:01,208 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002315: PathInfo: /api/weather
+2022-03-17 15:28:01,632 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:28:01,639 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:28:01,640 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:28:01,641 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:28:01,641 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) Interceptor Context: org.jboss.resteasy.core.interception.jaxrs.ServerWriterInterceptorContext,  Method : proceed
+2022-03-17 15:28:01,642 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.core.providerfactory.SortedKey
+2022-03-17 15:28:01,642 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [org.jbo.res.res.i18n] (executor-thread-0) MessageBodyWriter: org.jboss.resteasy.plugins.providers.StringTextStar
+2022-03-17 15:28:12,847 laptop-b90n927l getting-started-dev.jar[2140] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Running all shutdown-hook tasks
+2022-03-17 15:28:12,855 laptop-b90n927l getting-started-dev.jar[2140] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Running task: 
+2022-03-17 15:28:12,855 laptop-b90n927l getting-started-dev.jar[2140] FINE  [org.aes.rea.ter.uti.ShutdownHooks] (Aesh Shutdown Hook) Removing shutdown-hook: 
+2022-03-17 15:28:12,885 laptop-b90n927l getting-started-dev.jar[2140] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-17 15:28:12,885 laptop-b90n927l getting-started-dev.jar[2140] DEBUG [io.qua.arc.impl] (Shutdown thread) ArC DI container shut down
+2022-03-17 15:28:12,887 laptop-b90n927l getting-started-dev.jar[2140] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-17 15:28:12,887 laptop-b90n927l getting-started-dev.jar[2140] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.033s
+2022-03-20 16:01:34,774 laptop-b90n927l getting-started-dev.jar[14360] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 6.892s. Listening on: http://localhost:8081
+2022-03-20 16:01:34,792 laptop-b90n927l getting-started-dev.jar[14360] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-20 16:01:34,793 laptop-b90n927l getting-started-dev.jar[14360] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-20 16:03:15,989 laptop-b90n927l getting-started-dev.jar[14360] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-20 16:03:15,988 laptop-b90n927l getting-started-dev.jar[14360] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.052s
+2022-03-20 17:16:05,685 laptop-b90n927l getting-started-dev.jar[7012] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.098s. Listening on: http://localhost:8081
+2022-03-20 17:16:05,688 laptop-b90n927l getting-started-dev.jar[7012] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-20 17:16:05,689 laptop-b90n927l getting-started-dev.jar[7012] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-jsonb, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-20 17:16:08,456 laptop-b90n927l getting-started-dev.jar[7012] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-20 17:16:08,454 laptop-b90n927l getting-started-dev.jar[7012] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.040s
+2022-03-20 17:16:47,222 laptop-b90n927l getting-started-dev.jar[19732] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.052s. Listening on: http://localhost:8081
+2022-03-20 17:16:47,224 laptop-b90n927l getting-started-dev.jar[19732] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-20 17:16:47,225 laptop-b90n927l getting-started-dev.jar[19732] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-jsonb, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-20 17:16:54,406 laptop-b90n927l getting-started-dev.jar[19732] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-20 17:16:54,405 laptop-b90n927l getting-started-dev.jar[19732] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.035s
+2022-03-20 17:17:21,203 laptop-b90n927l getting-started-dev.jar[18640] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.043s. Listening on: http://localhost:8081
+2022-03-20 17:17:21,205 laptop-b90n927l getting-started-dev.jar[18640] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-20 17:17:21,206 laptop-b90n927l getting-started-dev.jar[18640] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-jsonb, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-20 17:17:42,648 laptop-b90n927l getting-started-dev.jar[18640] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Console Shutdown Hook) Failed to write out.
+2022-03-20 17:17:42,680 laptop-b90n927l getting-started-dev.jar[18640] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-20 17:17:42,679 laptop-b90n927l getting-started-dev.jar[18640] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.034s
+2022-03-20 17:18:00,606 laptop-b90n927l getting-started-dev.jar[16068] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.016s. Listening on: http://localhost:8081
+2022-03-20 17:18:00,608 laptop-b90n927l getting-started-dev.jar[16068] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-20 17:18:00,609 laptop-b90n927l getting-started-dev.jar[16068] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-jsonb, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-20 17:20:05,028 laptop-b90n927l getting-started-dev.jar[16068] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Console Shutdown Hook) Failed to write out.
+2022-03-20 17:20:05,068 laptop-b90n927l getting-started-dev.jar[16068] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-20 17:20:05,067 laptop-b90n927l getting-started-dev.jar[16068] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.042s
+2022-03-20 17:42:05,266 laptop-b90n927l getting-started-dev.jar[18808] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 4.984s. Listening on: http://localhost:8081
+2022-03-20 17:42:05,268 laptop-b90n927l getting-started-dev.jar[18808] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-20 17:42:05,269 laptop-b90n927l getting-started-dev.jar[18808] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-jsonb, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-20 17:42:06,361 laptop-b90n927l getting-started-dev.jar[18808] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-20 17:42:06,360 laptop-b90n927l getting-started-dev.jar[18808] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.039s
+2022-03-20 17:50:36,841 laptop-b90n927l getting-started-dev.jar[20624] WARN  [io.qua.config] (Quarkus Main Thread) Unrecognized configuration key "quarkus.http.core.origins" was provided; it will be ignored; verify that the dependency extension for this configuration is set or that you did not make a typo
+2022-03-20 17:50:36,841 laptop-b90n927l getting-started-dev.jar[20624] WARN  [io.qua.config] (Quarkus Main Thread) Unrecognized configuration key "quarkus.http.core" was provided; it will be ignored; verify that the dependency extension for this configuration is set or that you did not make a typo
+2022-03-20 17:50:38,128 laptop-b90n927l getting-started-dev.jar[20624] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Quarkus Main Thread) Failed to write out.
+2022-03-20 17:50:38,128 laptop-b90n927l getting-started-dev.jar[20624] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.070s. Listening on: http://localhost:8081
+2022-03-20 17:50:38,129 laptop-b90n927l getting-started-dev.jar[20624] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Quarkus Main Thread) Failed to write out.
+2022-03-20 17:50:38,129 laptop-b90n927l getting-started-dev.jar[20624] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-20 17:50:38,129 laptop-b90n927l getting-started-dev.jar[20624] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Quarkus Main Thread) Failed to write out.
+2022-03-20 17:50:38,129 laptop-b90n927l getting-started-dev.jar[20624] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-jsonb, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-20 17:50:38,159 laptop-b90n927l getting-started-dev.jar[20624] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Quarkus Main Thread) Failed to write out.
+2022-03-20 17:50:38,159 laptop-b90n927l getting-started-dev.jar[20624] INFO  [io.quarkus] (Quarkus Main Thread) getting-started stopped in 0.029s
+2022-03-20 18:06:09,830 laptop-b90n927l getting-started-dev.jar[18692] WARN  [io.qua.config] (Quarkus Main Thread) Unrecognized configuration key "quarkus.http.core" was provided; it will be ignored; verify that the dependency extension for this configuration is set or that you did not make a typo
+2022-03-20 18:06:11,081 laptop-b90n927l getting-started-dev.jar[18692] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.166s. Listening on: http://localhost:8081
+2022-03-20 18:06:11,082 laptop-b90n927l getting-started-dev.jar[18692] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-20 18:06:11,083 laptop-b90n927l getting-started-dev.jar[18692] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-jsonb, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-20 18:10:20,304 laptop-b90n927l getting-started-dev.jar[18692] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-20 18:10:20,303 laptop-b90n927l getting-started-dev.jar[18692] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.048s
+2022-03-20 18:17:59,586 laptop-b90n927l getting-started-dev.jar[20272] WARN  [io.qua.config] (Quarkus Main Thread) Unrecognized configuration key "quarkus.http.core" was provided; it will be ignored; verify that the dependency extension for this configuration is set or that you did not make a typo
+2022-03-20 18:18:00,856 laptop-b90n927l getting-started-dev.jar[20272] INFO  [io.quarkus] (Quarkus Main Thread) getting-started 1.0-SNAPSHOT on JVM (powered by Quarkus 2.7.5.Final) started in 5.012s. Listening on: http://localhost:8081
+2022-03-20 18:18:00,857 laptop-b90n927l getting-started-dev.jar[20272] INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-03-20 18:18:00,858 laptop-b90n927l getting-started-dev.jar[20272] INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy, resteasy-jackson, resteasy-jsonb, resteasy-mutiny, smallrye-context-propagation, vertx]
+2022-03-20 18:18:00,900 laptop-b90n927l getting-started-dev.jar[20272] WARNING [org.aes.rea.ter.imp.AbstractWindowsTerminal] (Shutdown thread) Failed to write out.
+2022-03-20 18:18:00,899 laptop-b90n927l getting-started-dev.jar[20272] INFO  [io.quarkus] (Shutdown thread) getting-started stopped in 0.033s
